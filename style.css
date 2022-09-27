@@ -1,0 +1,51 @@
+body{
+    font: 400;
+    margin: 0%;
+    background-color: rgba(127, 255, 212, 0.267)
+  
+}
+span{
+    color: orange;
+}
+div{
+   padding: 0%;
+   padding-left: 5%;
+
+}
+h1{
+    font-size:50px;
+ 
+
+}
+section{
+   display: inline-block; 
+   
+
+}
+img{
+    padding-left: 3%;
+}
+.hafe{
+   padding-top: 0%;
+}
+h3{
+ color: royalblue;
+}
+a{
+    text-decoration: none;
+    color:white;
+    background-color: orange;
+    padding: 10px 40px;
+    text-size-adjust: 5px;
+    border-radius: 5px;
+}
+.banar{
+    background-image: url(img/banner.png);
+    background-repeat: no-repeat;
+}
+.hafe{
+    padding-bottom: 50%;
+}
+
+
+
